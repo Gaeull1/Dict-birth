@@ -1,5 +1,3 @@
-啊啊啊
-
 should import exrex  module
 
 use python main.py
