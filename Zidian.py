@@ -2,7 +2,7 @@
 import exrex
 
 
-class ZiDian1:
+class ZiDian:
 
 
     def __init__(self, url, new_file_name="new_dict.txt", file_name="muben.txt"):
